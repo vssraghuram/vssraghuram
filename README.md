@@ -28,9 +28,21 @@ Whether it’s using **Core Location**, building animations, or managing shared 
 
 #  Online Presence
 
-- 🔗 **LinkedIn**: [RaghuRam1241](https://linkedin.com/in/raghuram1241)  
-- 🐙 **GitHub**: [raghuramofficial07](https://github.com/raghuramofficial07)  
--  iOS Enthusiast • Flutter Dev • 🛠 Blogger in Progress  
+<a href="https://linkedin.com/in/raghuram1241" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-RaghuRam1241-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/raghuramofficial07" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-raghuramofficial07-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/user/vssraghuram" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-vssraghuram-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="https://www.quora.com/profile/Vemparala-Sri-Satya-Raghuram" target="_blank">
+  <img src="https://img.shields.io/badge/Quora-Vemparala--Sri--Satya--Raghuram-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@vsrglobalhere" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-VSR Global-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
