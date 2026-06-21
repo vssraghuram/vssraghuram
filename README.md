@@ -3,6 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<img width="1684" height="1190" alt="NOTE 1" src="https://github.com/user-attachments/assets/365dad6a-ce42-4b0b-a67d-b5fb2d736258" />
+
+
 ## About Me
 
 Hello! I'm **Vemparala Sri Satya RaghuRam**, but you'll find me across the web as **RaghuRam1241** — a passionate junior developer who believes in building beyond certifications and focusing on industry-oriented, real-world skills.
