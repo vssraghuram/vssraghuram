@@ -10,8 +10,8 @@
 <a href="https://www.linkedin.com/in/raghuram1241/">
   <img src="https://img.shields.io/badge/LINKEDIN-raghuram1241-B4791C?style=for-the-badge&logo=linkedin&logoColor=FFE9A8&labelColor=0D0705" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/raghuramocial07">
-  <img src="https://img.shields.io/badge/GITHUB-raghuramocial07-B4791C?style=for-the-badge&logo=github&logoColor=FFE9A8&labelColor=0D0705" alt="GitHub"/>
+<a href="https://github.com/vssraghuram">
+  <img src="https://img.shields.io/badge/GITHUB-vssraghuram-B4791C?style=for-the-badge&logo=github&logoColor=FFE9A8&labelColor=0D0705" alt="GitHub"/>
 </a>
 <a href="tel:+917095969797">
   <img src="https://img.shields.io/badge/CALL-%2B91%207095%20969%20797-B4791C?style=for-the-badge&logo=phone&logoColor=FFE9A8&labelColor=0D0705" alt="Phone"/>
