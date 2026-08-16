@@ -1,0 +1,121 @@
+<svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0D0705"/>
+    <stop offset="55%" stop-color="#170A08"/>
+    <stop offset="100%" stop-color="#0A0503"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#FFE9A8"/>
+    <stop offset="50%" stop-color="#F2B94D"/>
+    <stop offset="100%" stop-color="#B4791C"/>
+  </linearGradient>
+  <radialGradient id="glowR" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#FF3B30" stop-opacity="0.30"/>
+    <stop offset="100%" stop-color="#FF3B30" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowC" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#1FA9C9" stop-opacity="0.28"/>
+    <stop offset="100%" stop-color="#1FA9C9" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="16"/>
+  </filter>
+  <pattern id="hex" width="42" height="24.25" patternUnits="userSpaceOnUse">
+    <path d="M10.5,0 L31.5,0 L42,12.1 L31.5,24.25 L10.5,24.25 L0,12.1 Z" fill="none" stroke="#C9A227" stroke-opacity="0.07" stroke-width="1"/>
+  </pattern>
+</defs>
+
+<rect x="0" y="0" width="900" height="480" rx="14" fill="url(#bg)"/>
+<rect x="0" y="0" width="900" height="480" rx="14" fill="url(#hex)"/>
+<rect x="1" y="1" width="898" height="478" rx="13" fill="none" stroke="url(#gold)" stroke-width="1.2" stroke-opacity="0.55"/>
+<circle cx="850" cy="20" r="180" fill="url(#glowR)" filter="url(#blur)"/>
+<circle cx="40" cy="460" r="180" fill="url(#glowC)" filter="url(#blur)"/>
+
+<text x="30" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#F2B94D" opacity="0.85">MARK.ARCHIVE // BUILD LOG</text>
+<line x1="30" y1="44" x2="870" y2="44" stroke="url(#gold)" stroke-opacity="0.35" stroke-width="1"/>
+
+<!-- Card template repeated 4x: 420x180, gap 20, starting at (30,62) -->
+
+<!-- Card 1: SuchJaano Web -->
+<g transform="translate(30,62)">
+  <rect width="420" height="180" rx="10" fill="#140B06" stroke="url(#gold)" stroke-opacity="0.55" stroke-width="1.2"/>
+  <g transform="translate(20,20)">
+    <circle cx="20" cy="20" r="20" fill="#0B0F14" stroke="#8FE9FF" stroke-width="1.4"/>
+    <path d="M11,14 h18 v14 h-18 z M11,18 h18 M20,18 v10" fill="none" stroke="#8FE9FF" stroke-width="1.3"/>
+    <circle cx="20" cy="14" r="1.6" fill="#8FE9FF"/>
+  </g>
+  <text x="72" y="34" font-family="'Segoe UI',ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#F2B94D">SuchJaano — Web</text>
+  <text x="72" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1" fill="#FF8A80">REAL-TIME MICROBLOGGING SPA</text>
+  <text x="20" y="88" font-family="ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="12.5" fill="#C9C2B4">
+    <tspan x="20" dy="0">Live feed via Firestore onSnapshot listeners —</tspan>
+    <tspan x="20" dy="17">zero client polling. Dual auth (Google OAuth +</tspan>
+    <tspan x="20" dy="17">email), protected routes, per-user security rules.</tspan>
+  </text>
+  <rect x="20" y="146" width="380" height="1" fill="url(#gold)" opacity="0.25"/>
+  <text x="20" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#9AA0A6">React.js · Firestore · OAuth 2.0 · Tailwind</text>
+</g>
+
+<!-- Card 2: SuchJaano iOS -->
+<g transform="translate(470,62)">
+  <rect width="420" height="180" rx="10" fill="#140B06" stroke="url(#gold)" stroke-opacity="0.55" stroke-width="1.2"/>
+  <g transform="translate(20,20)">
+    <rect x="6" y="2" width="28" height="38" rx="6" fill="#0B0F14" stroke="#F2B94D" stroke-width="1.4"/>
+    <circle cx="20" cy="34" r="1.6" fill="#F2B94D"/>
+    <path d="M13,10 Q20,4 27,10" fill="none" stroke="#FF8A80" stroke-width="1.3"/>
+  </g>
+  <text x="72" y="34" font-family="'Segoe UI',ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#F2B94D">SuchJaano — iOS</text>
+  <text x="72" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1" fill="#FF8A80">NATIVE SWIFTUI REBUILD</text>
+  <text x="20" y="88" font-family="ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="12.5" fill="#C9C2B4">
+    <tspan x="20" dy="0">Same concept, native armor. Firebase Auth +</tspan>
+    <tspan x="20" dy="17">Firestore snapshot listeners, gradient-themed</tspan>
+    <tspan x="20" dy="17">adaptive UI, tested across 7+ iPhone devices.</tspan>
+  </text>
+  <rect x="20" y="146" width="380" height="1" fill="url(#gold)" opacity="0.25"/>
+  <text x="20" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#9AA0A6">Swift · SwiftUI · Firebase Auth · Firestore</text>
+</g>
+
+<!-- Card 3: React Calculator -->
+<g transform="translate(30,262)">
+  <rect width="420" height="180" rx="10" fill="#140B06" stroke="url(#gold)" stroke-opacity="0.55" stroke-width="1.2"/>
+  <g transform="translate(20,20)">
+    <rect x="4" y="2" width="32" height="38" rx="5" fill="#0B0F14" stroke="#8AFF9E" stroke-width="1.4"/>
+    <rect x="9" y="8" width="22" height="8" rx="1.5" fill="none" stroke="#8AFF9E" stroke-width="1"/>
+    <circle cx="12" cy="24" r="1.6" fill="#8AFF9E"/>
+    <circle cx="20" cy="24" r="1.6" fill="#8AFF9E"/>
+    <circle cx="28" cy="24" r="1.6" fill="#8AFF9E"/>
+    <circle cx="12" cy="32" r="1.6" fill="#8AFF9E"/>
+    <circle cx="20" cy="32" r="1.6" fill="#8AFF9E"/>
+    <circle cx="28" cy="32" r="1.6" fill="#8AFF9E"/>
+  </g>
+  <text x="72" y="34" font-family="'Segoe UI',ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#F2B94D">React Calculator</text>
+  <text x="72" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1" fill="#FF8A80">COMPONENT-DRIVEN SPA</text>
+  <text x="20" y="88" font-family="ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="12.5" fill="#C9C2B4">
+    <tspan x="20" dy="0">Data-driven key grid from a centralized BUTTONS</tspan>
+    <tspan x="20" dy="17">config array. Custom useCalculator hook fully</tspan>
+    <tspan x="20" dy="17">separates arithmetic logic from UI rendering.</tspan>
+  </text>
+  <rect x="20" y="146" width="380" height="1" fill="url(#gold)" opacity="0.25"/>
+  <text x="20" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#9AA0A6">React.js · Custom Hooks · CSS Grid</text>
+</g>
+
+<!-- Card 4: Clipboard App -->
+<g transform="translate(470,262)">
+  <rect width="420" height="180" rx="10" fill="#140B06" stroke="url(#gold)" stroke-opacity="0.55" stroke-width="1.2"/>
+  <g transform="translate(20,20)">
+    <rect x="6" y="6" width="28" height="34" rx="4" fill="#0B0F14" stroke="#8FE9FF" stroke-width="1.4"/>
+    <rect x="14" y="2" width="12" height="7" rx="2" fill="#0B0F14" stroke="#8FE9FF" stroke-width="1.2"/>
+    <path d="M11,18 h18 M11,24 h18 M11,30 h12" stroke="#8FE9FF" stroke-width="1.1"/>
+  </g>
+  <text x="72" y="34" font-family="'Segoe UI',ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#F2B94D">Clipboard App</text>
+  <text x="72" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1" fill="#FF8A80">CROSS-PLATFORM · iOS &amp; ANDROID</text>
+  <text x="20" y="88" font-family="ui-sans-serif,system-ui,Helvetica,Arial,sans-serif" font-size="12.5" fill="#C9C2B4">
+    <tspan x="20" dy="0">Platform-specific UI via Dart's Platform API,</tspan>
+    <tspan x="20" dy="17">dynamic ListView.builder text holder, and a</tspan>
+    <tspan x="20" dy="17">TabBar splitting Text and Image entries.</tspan>
+  </text>
+  <rect x="20" y="146" width="380" height="1" fill="url(#gold)" opacity="0.25"/>
+  <text x="20" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#9AA0A6">Flutter · Dart · Platform Channels</text>
+</g>
+
+</svg>
