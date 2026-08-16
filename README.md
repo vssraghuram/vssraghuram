@@ -25,7 +25,7 @@
 
 I'm **Vemparala Sri Satya Raghuram**, a B.Tech Computer Science student (Aditya University, 2023–2027) who builds across the full stack of a product — the server, the browser, and the phone in your pocket.
 
-On one suit layer, I'm a **MERN Stack Developer**: production SPAs with MongoDB, Express, React and Node, JWT auth, Google OAuth, Firebase Firestore, and Razorpay payments — hardened during a Full-Stack Web Developer internship at **SkillDzire**. On the other, I build **native iOS apps in Swift/SwiftUI** and **cross-platform apps in Flutter**, shipping real-time, Firebase-backed experiences tested across 7+ iPhone devices.
+On one suit layer, I'm a **MERN Stack Developer**: production SPAs with MongoDB, Express, React and Node, JWT auth, Google OAuth, Firebase Firestore, and Razorpay payments — hardened during a Full-Stack Web Developer internship at **SkillDzire**. On the other, I build **native iOS apps in Swift/SwiftUI** and **cross-platform apps in Flutter**, shipping real-time, Firebase-backed experiences tested across 7+ iPhone devices. I approach both the same way — thinking in clean separations of UI and logic, whether that's MVVM in Swift or hooks in React.
 
 Same core system, different armor for different missions.
 
@@ -108,8 +108,6 @@ Same core system, different armor for different missions.
 <img src="https://img.shields.io/badge/Firebase-0D0705?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D0705"/>
 <img src="https://img.shields.io/badge/Google_OAuth-0D0705?style=flat-square&logo=google&logoColor=4285F4&labelColor=0D0705"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-0D0705?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D0705"/>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[`repo ↗`](https://github.com/raghuramocial07/SuchJaano)
 
 <br/><br/>
 
@@ -123,14 +121,29 @@ Same core system, different armor for different missions.
 <sub><b>React Calculator</b></sub><br/>
 <img src="https://img.shields.io/badge/React-0D0705?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D0705"/>
 <img src="https://img.shields.io/badge/CSS3-0D0705?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D0705"/>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[`repo ↗`](https://github.com/raghuramocial07/Calculator)
 
 <br/><br/>
 
 <sub><b>Clipboard App</b></sub><br/>
 <img src="https://img.shields.io/badge/Flutter-0D0705?style=flat-square&logo=flutter&logoColor=02569B&labelColor=0D0705"/>
 <img src="https://img.shields.io/badge/Dart-0D0705?style=flat-square&logo=dart&logoColor=0175C2&labelColor=0D0705"/>
+
+</div>
+
+> ⚠️ Repo links intentionally omitted here — confirm which GitHub account actually hosts these four project repos before adding links, so nothing 404s for a visitor.
+
+<br/>
+
+## `// SIGNAL LOG — PINNED REPOSITORIES`
+
+<div align="center">
+
+| Repo | Focus | Stack |
+|---|---|---|
+| [`iOS`](https://github.com/vssraghuram/iOS) | Native iOS builds | Swift |
+| [`DSA`](https://github.com/vssraghuram/DSA) | Data structures & algorithms practice | C++ |
+| [`LeetCode`](https://github.com/vssraghuram/LeetCode) | LeetCode problem-solving journey | C++ |
+| [`VSR`](https://github.com/vssraghuram/VSR) | Personal portfolio / web build | JavaScript |
 
 </div>
 
@@ -146,6 +159,25 @@ Same core system, different armor for different missions.
 - 📜 Razorpay Gateway Integration — Razorpay Developer Program
 - 📜 C Language — IIET · Industry 4.0 & IIoT — NPTEL
 - 📜 Introduction to Claude Cowork — Anthropic
+
+<br/>
+
+## `// NEXT MISSIONS — CURRENT GOALS`
+
+- 🌐 Ship a personal portfolio site built in React (MERN stack) under this account
+- 💼 Land a top-tier internship in the next year
+- 🧠 Keep DSA sharp with consistent LeetCode practice
+- 📱 Publish more cross-platform builds to back up the iOS + Flutter work above
+
+<br/>
+
+## `// COMMS CHANNELS`
+
+<div align="center">
+<a href="https://www.linkedin.com/in/raghuram1241/"><img src="https://img.shields.io/badge/LinkedIn-0D0705?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D0705"/></a>
+<a href="https://www.youtube.com/@vsrglobalhere"><img src="https://img.shields.io/badge/YouTube-0D0705?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0D0705"/></a>
+<a href="https://www.instagram.com/v.s.s.raghuram/"><img src="https://img.shields.io/badge/Instagram-0D0705?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D0705"/></a>
+</div>
 
 <br/>
 
